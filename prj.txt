@@ -5,8 +5,4 @@ sonny liston
 rocky marciano
 evander hollifield
 jose ribalta
-<<<<<<< HEAD
-canelo alvarez
-=======
 mitch green
->>>>>>> sketch
